@@ -1,0 +1,7 @@
+# env
+.idea/
+
+# build stuff
+build/
+frizzy
+frizzy.exe
